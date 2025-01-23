@@ -21,4 +21,4 @@ Vanilla javaScript stopwatch application.
 <p>This is a simple but useful project built on Vanilla javaScript.</p>
 <p>Application is responsive for all mobile devices.</p>
 
-Project Link: https://github.com/kateFrontend/Stopwatch
+Project Link: [https://github.com/kateFrontend/Stopwatch](https://github.com/khaloui-Salaheddine/Stop-Watch?tab=readme-ov-file)
