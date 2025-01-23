@@ -1,6 +1,6 @@
 <div>
   <h1>Stopwatch</h1> 
-  <img src="coverStopwatch.JPG" alt="stopwatch" width="auto">
+  <img src="cover.JPG" alt="stopwatch" width="auto">
 </div>
 
 <!-- ABOUT THE PROJECT -->
